@@ -1,3 +1,4 @@
 ## Welcome to PolarMOT, [website](https://polarmot.github.io/)!
 
-The code, including pre-trained models, will be uploaded within the week of 28 August.
+The code will be cleaned up with proper instructions and pre-trained models in the week following ECCV 2022. 
+Pushing the code in the current state to show commitment :)
